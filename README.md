@@ -11,4 +11,4 @@
 
 <p>All the configuration done only in one xml file named spring-servlet.xml</p>
 
-
+<p>You can show the Screenshots : ContactApp/src/main/resources/image</p>
